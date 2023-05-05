@@ -13,7 +13,7 @@ DogX Finance is a community-led, multi-purpose DeFi platform built on the Multi 
 
 In addition to the advantages of being built on top of  Multi Protocol, DogX Finance provides:&#x20;
 
-* DUSD Token Medium of exchange (not Stable coin)
+* [DUSD](dusd.md) Token Medium of exchange (not Stable coin)
 * Swap
 * Customisable pool fee
 
