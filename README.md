@@ -4,7 +4,9 @@ description: Welcome to DogX Finance
 
 # Introduction
 
-![](<.gitbook/assets/reffi-horiz (1).png>)
+
+<img src="dogx_logo_1.jpg" width=20% height=20%>
+
 
 DogX Finance is a community-led, multi-purpose DeFi platform built on the Multi Protocol.
 
